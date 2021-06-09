@@ -3,7 +3,7 @@
 <!--
 **valemagdalena/valemagdalena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hola!! Me llamo Valentina. Soy ingeniera comercial especializada en Marketing y vivo en Chile. Actualmente estudio Desarrollo Full Stack.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
